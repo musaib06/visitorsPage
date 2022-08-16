@@ -1,0 +1,58 @@
+.div_ImageCrop {
+    background: #e9e9e9;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 9999;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.imageCrop {
+    position: absolute;
+    left: 30%;
+    top: 10%;
+}   
+    .clsVisitorCreateContainer input,
+    .clsVisitorCreateContainer select,
+    .clsVisitorCreateContainer .date {
+        margin-bottom: 10px;
+    }
+
+        .clsVisitorCreateContainer .date input {
+            max-width: 450px;
+        }
+
+    .clsVisitorCreateContainer label {
+        margin-bottom: 0;
+    }
+
+    .infoLabels {
+        padding: 0px;
+    }
+
+    .clsAdminOnly {
+        display: none;
+        
+    }
+     .labelFont{
+        color: #676A6C;
+        font: 14px;
+        font-family: open sans,Helvetica Neue,Arial, Helvetica, sans-serif;
+        font-weight: bold;
+     }
+
+     body {
+    font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #ffffff;
+    font-size: 14px;
+    color: #676a6c;
+    overflow-x: hidden;
+}
+
+.button{
+background-color: #34d276;
+}
